@@ -5,11 +5,8 @@ email: jeffreyxparker@gmail.com
 copyright_name: Your/Project/Corporate Name
 description: "Write your site description here. It will be used as your sites meta description as well!"
 baseurl: ""
-<<<<<<< HEAD
 url: "localhost:4000"
-=======
-url: "http://yourdomain.com"
->>>>>>> origin/master
+
 twitter_username: SBootstrap
 github_username:  jeffreyxparker
 facebook_username:  jeffreyxparker
