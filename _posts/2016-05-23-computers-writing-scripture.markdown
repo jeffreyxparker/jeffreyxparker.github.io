@@ -6,6 +6,7 @@ date:       2016-05-23 12:00:00
 author:     "Jeff Parker"
 header-img: "img/newtestament_0.jpg"
 ---
+
 <p><i><b>NOTE: Originally composed for <a href = "http://sites.northwestern.edu/msia/2017/05/23/computers-can-compose-music-but-can-they-write-scripture/">Northwestern's Master of Analytics (MSIA) Student Research Blog</a> and posted May 23rd, 2016. I was a student in the program at the time of posting.</b></i></p>
 <p>I was so impressed to learn from a peer that computer programs have been written to compose music. Music is widely considered an art that takes innately human abilities to craft pleasing sounds. Computers are dull and inanimate while music is alive and human. I do not have a musical background, but after investigating this “artificial” music, I realized that the programs analyze sounds and patterns to piece together new compositions.</p>
 
