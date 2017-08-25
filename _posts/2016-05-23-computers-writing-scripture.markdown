@@ -4,10 +4,11 @@ title:      "Computers can compose music… but can they write scripture?"
 subtitle:   "Data science approaches to replicate a deeply human task"
 date:       2016-05-23 12:00:00
 author:     "Jeff Parker"
-header-img: "img/newtestament_0.jpg"
+header-img: "img/computers_writing_scripture_master.jpg"
 ---
 
 <p><i><b>NOTE: Originally composed for <a href = "http://sites.northwestern.edu/msia/2017/05/23/computers-can-compose-music-but-can-they-write-scripture/">Northwestern's Master of Analytics (MSIA) Student Research Blog</a> and posted May 23rd, 2016. I was a student in the program at the time of posting.</b></i></p>
+
 <p>I was so impressed to learn from a peer that computer programs have been written to compose music. Music is widely considered an art that takes innately human abilities to craft pleasing sounds. Computers are dull and inanimate while music is alive and human. I do not have a musical background, but after investigating this “artificial” music, I realized that the programs analyze sounds and patterns to piece together new compositions.</p>
 
 <p>So if computers can compose music, something so deeply personal and human, I thought, what else deeply personal can they do? An idea sparked when I asked my wife late at night to tell me her favorite scripture verse in lieu of reading a chapter as is our nightly custom. My wife was too sleepy to read, in her drowsy voice gabbled what sounded like a random assortment of the most common biblical words, “For behold, thus sayeth the Lord, verily I say unto thee, that…” It was hilarious, but to the untrained ear, could have passed as a legitimate passage.</p>

@@ -2,12 +2,12 @@
 title: Jeff's Blog
 header-img: img/home-bg.jpg
 email: jeffreyxparker@gmail.com
-copyright_name: Your/Project/Corporate Name
-description: "Write your site description here. It will be used as your sites meta description as well!"
+copyright_name: Jeff Parker
+description: "A students musings, mostly about data science applications."
 baseurl: ""
 url: "jeffreyxparker.github.io"
 
-twitter_username: SBootstrap
+twitter_username: jeffreyxparker
 github_username:  jeffreyxparker
 facebook_username:  jeffreyxparker
 email_username:  jeffreyxparker@gmail.com
