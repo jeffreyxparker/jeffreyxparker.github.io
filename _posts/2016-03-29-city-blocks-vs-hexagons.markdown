@@ -6,7 +6,7 @@ date:       2016-03-29 12:00:00
 author:     "Jeff Parker"
 header-img: "img/city_blocks_master.jpg"
 ---
-<p><i><b>NOTE: Originally composed for <a href = "http://sites.northwestern.edu/msia/2017/05/23/computers-can-compose-music-but-can-they-write-scripture/">Northwestern's Master of Analytics (MSIA) Student Research Blog</a> and posted May 23rd, 2016. I was a student in the program at the time of posting.</b></i></p>
+***NOTE: Originally composed for [Northwestern's Master of Analytics (MSIA) Student Research Blog](http://sites.northwestern.edu/msia/2017/05/23/computers-can-compose-music-but-can-they-write-scripture/) and posted March 29, 2016. I was a student in the program at the time of posting.***
 
 Driving to the O’Hare airport in Chicago takes a whopping 1 hour and 15 minutes to travel a mere 8 miles from my wife’s work. The fastest route zig-zags through the suburbs on streets of various sizes and directions. We travel west and south inevitably hitting every traffic light at every intersection.
 
