@@ -1,11 +1,9 @@
 ---
 layout: page
 title: "About"
-description: "A student's blog - mostly about data science"
+description: "Hello! I am Jeff Parker. Welcome to my blog."
 header-img: "img/jeffreyxparker2.jpg"
 ---
-
-Hello! I am Jeff Parker. Welcome to my blog.
 
 This blog is compilation of subjects that I find interesting. Most of the articles will be about data science but expect to see a few articles about politices, parenting, design, economics, sports, religion and recipes. Friends, family and colleagues are invited to guest author.
 
