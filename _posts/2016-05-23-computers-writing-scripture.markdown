@@ -1,10 +1,14 @@
 ---
-layout:     post
-title:      "Computers can compose music… but can they write scripture?"
-subtitle:   "Data science approaches to replicate a deeply human task"
-date:       2016-05-23 12:00:00
-author:     "Jeff Parker"
-header-img: "img/computers_writing_scripture_master.jpg"
+layout:         post
+title:          "Computers can compose music… but can they write scripture?"
+subtitle:       "Data science approaches to replicate a deeply human task"
+date:           2016-05-23 12:00:00
+author:         "Jeff Parker"
+header-img:     "img/computers_writing_scripture_master.jpg"
+
+tile-img:       "img/computers_writing_scripture_tile.jpg"
+description:    "Data science approaches to replicate a deeply human task"
+twt-card-type:  "summary_large_image"
 ---
 
 ***NOTE: Originally composed for [Northwestern's Master of Analytics (MSIA) Student Research Blog](http://sites.northwestern.edu/msia/2017/05/23/computers-can-compose-music-but-can-they-write-scripture/) and posted May 23, 2016. I was a student in the program at the time of posting.***
