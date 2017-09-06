@@ -1,10 +1,15 @@
 ---
-layout:     post
-title:      "Round Peg for a Square Hole"
-subtitle:   "City Blocks vs. Hexagons"
-date:       2016-03-29 12:00:00
-author:     "Jeff Parker"
-header-img: "img/city_blocks_master.jpg"
+layout:         post
+title:          "Round Peg for a Square Hole"
+subtitle:       "City Blocks vs. Hexagons"
+date:           2016-03-29 12:00:00
+author:         "Jeff Parker"
+header-img:     "img/city_blocks_master.jpg"
+
+
+tile-img:       "img/computers_writing_scripture_tile.jpg"
+description:    "City Blocks vs. Hexagons"
+twt-card-type:  "summary_large_image"
 ---
 ***NOTE: Originally composed for [Northwestern's Master of Analytics (MSIA) Student Research Blog](http://sites.northwestern.edu/msia/2017/05/23/computers-can-compose-music-but-can-they-write-scripture/) and posted March 29, 2016. I was a student in the program at the time of posting.***
 
