@@ -35,6 +35,7 @@
     <![endif]-->
 
     <!-- facebook Open Graph Metadatas -->
+    <meta content="609039549219229" property="fb:app_id">
     <meta content="{{ site.title }}" property="og:site_name">
     {% if page.title %}
       <meta content="{{ page.title }}" property="og:title">
@@ -58,8 +59,8 @@
       <meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time">
       <meta content="{{ site.url }}/about/" property="article:author">
     {% endif %}
-    {% page.tile-img %}
-      <meta content="{{ site.url }}/{{ page.tile-img }}" property="og:image">
+    {% if page.header-img %}
+      <meta content="{{ site.url }}/{{ page.header-img }}" property="og:image">
     {% endif %}
     {% if page.categories %}
       {% for category in page.categories limit:1 %}
@@ -71,11 +72,8 @@
       <meta content="{{ tag }}" property="article:tag">
       {% endfor %}
     {% endif %}
-    
-    <!-- facebook Metadatas -->
-    <meta content="463147144066829" property="fb:app_id">
-    
-    <!-- Twitter cards metadatas -->
+
+     <!-- Twitter cards metadatas -->
     {% if page.title %}
     <meta name="twitter:card" content="{{ page.twt-card-type }}">
     {% else %}
