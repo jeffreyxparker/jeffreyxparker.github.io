@@ -5,6 +5,7 @@ subtitle:       "Data science approaches to replicate a deeply human task"
 date:           2016-05-23 12:00:00
 author:         "Jeff Parker"
 header-img:     "img/computers_writing_scripture_master.jpg"
+comments:       true
 
 tile-img:       "img/computers_writing_scripture_tile.jpg"
 description:    "Data science approaches to replicate a deeply human task"

@@ -5,7 +5,7 @@ subtitle:       "City Blocks vs. Hexagons"
 date:           2016-03-29 12:00:00
 author:         "Jeff Parker"
 header-img:     "img/city_blocks_master.jpg"
-
+comments:       true
 
 tile-img:       "img/computers_writing_scripture_tile.jpg"
 description:    "City Blocks vs. Hexagons"
