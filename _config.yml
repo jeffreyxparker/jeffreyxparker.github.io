@@ -1,9 +1,9 @@
 # Site settings
-title: Jeff's Blog
+title: Data in the Strata
 header-img: img/datas_in_the_strata2.JPG
 email: jeffreyxparker@gmail.com
 copyright_name: Jeff Parker
-description: "A student's musings, mostly about data science applications."
+description: A Blog from Jeff Parker about Data Science, Economics and Life
 baseurl: ""
 url: "jeffreyxparker.github.io"
 
