@@ -21,7 +21,3 @@ paginate: 5
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
 plugins: [jekyll-paginate, jekyll-feed]
-
-# Staticman Comments
-repository: https://github.com/jeffreyxparker/jeffreyxparker.github.io.git
-staticman.branch: master
