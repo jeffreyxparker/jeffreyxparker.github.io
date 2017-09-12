@@ -70,10 +70,10 @@
                 
                 <!--Comment Form-->
                 <form method="POST" action="https://api.staticman.net/v2/entry/jeffreyxparker/jeffreyxparker.github.io/master/comments">
-                    <input name="options[redirect]" type="hidden" value="{{ post.url }}">
+                    <input name="options[redirect]" type="hidden" value="{{ site.url }}{{ page.url }}">
                     <input name="options[slug]" type="hidden" value="{{ page.slug }}">
                     <input name="fields[name]" type="text" placeholder="Display name">
-                    <input name="fields[email]" type="email" placeholder="Email address (optional)" size="30"><abbr title="E-mail will be turned into an MD5 hash.">!@#</abbr>
+                    <input name="fields[email]" type="email" placeholder="Email address" size="30">
                     <textarea name="fields[comment]" placeholder="Add a public comment..."></textarea>
                     <button type="submit">Submit</button>
                 </form> 
