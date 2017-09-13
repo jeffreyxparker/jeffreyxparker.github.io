@@ -7,7 +7,7 @@ author:         "Jeff Parker"
 header-img:     "img/computers_writing_scripture_master.jpg"
 comments:       true
 
-tile-img:       "img/computers_writing_scripture_tile.png"
+tile-img:       "img/city_blocks_img2.png"
 description:    "Data science approaches to replicate a deeply human task"
 twt-card-type:  "summary_large_image"
 ---
