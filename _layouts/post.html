@@ -56,28 +56,34 @@
     
     
 {% if page.comments %}
+    
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-    
+                <hr>
+                <h2 class="subheading">Comments</h2>
                 <!--Comments-->
                 {% assign comments = site.data.comments[page.slug] %} <!-- | sort -->{% for comment in comments reversed %}{% assign commentData = comment[1] %}
                 <div class="comment">
-                    <span>{{ commentData.name }}</span>
-                    <span>{{ commentData.email }}</span><br>
-                    <p>> {{ commentData.comment }}</p>
-                </div>{% endfor %}
+                    {{ commentData.comment }}
+                </div>
+                <span class="comment-name">By <b>{{ commentData.name }}</b> on {{ commentData.date | date: "%B %-d, %Y" }}</span> <p></p>
+                {% endfor %}
                 
                 <!--Comment Form-->
+                <hr>
+                <h2 class="subheading">Add a comment</h2>
+                <div class="comment-form">
                 <form method="POST" action="https://api.staticman.net/v2/entry/jeffreyxparker/jeffreyxparker.github.io/master/comments">
                     <input name="options[redirect]" type="hidden" value="{{ site.url }}{{ page.url }}">
                     <input name="options[slug]" type="hidden" value="{{ page.slug }}">
-                    <input name="fields[name]" type="text" placeholder="Display name">
-                    <input name="fields[email]" type="email" placeholder="Email address" size="30">
-                    <textarea name="fields[comment]" placeholder="Add a public comment..."></textarea>
+                    <textarea class="comment-text" name="fields[comment]" placeholder="Your comment (markup allowed)"></textarea>
+                    <input class="comment-name-input" name="fields[name]" type="text" placeholder="Display name">
+                    <input class="comment-email" name="fields[email]" type="email" placeholder="Email address" size="30">
+                    <p></p>
                     <button type="submit">Submit</button>
                 </form> 
-                
+                </div>
             </div>
         </div>
     </div>
