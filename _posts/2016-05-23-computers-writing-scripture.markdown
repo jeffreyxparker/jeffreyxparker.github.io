@@ -1,6 +1,6 @@
 ---
 layout:         post
-title:          "Computers can compose music… but can they write scripture?"
+title:          "Computers Can Compose Music… But Can They Write Scripture?"
 subtitle:       "Data science approaches to replicate a deeply human task"
 date:           2016-05-23 12:00:00
 author:         "Jeff Parker"

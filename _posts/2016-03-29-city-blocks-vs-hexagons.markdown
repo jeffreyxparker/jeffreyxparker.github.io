@@ -1,7 +1,7 @@
 ---
 layout:         post
 title:          "Round Peg for a Square Hole"
-subtitle:       "City Blocks vs. Hexagons"
+subtitle:       "City blocks versus hexagons"
 date:           2016-03-29 12:00:00
 author:         "Jeff Parker"
 header-img:     "img/city_blocks_master.jpg"
