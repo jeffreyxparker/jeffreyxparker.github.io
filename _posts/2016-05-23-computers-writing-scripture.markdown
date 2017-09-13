@@ -12,6 +12,10 @@ description:    "Data science approaches to replicate a deeply human task"
 twt-card-type:  "summary_large_image"
 ---
 
+ <a href="#">
+                    <img src="{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}"/>
+                </a>
+
 ***NOTE: Originally composed for [Northwestern's Master of Analytics (MSIA) Student Research Blog](http://sites.northwestern.edu/msia/2017/05/23/computers-can-compose-music-but-can-they-write-scripture/) and posted May 23, 2016. I was a student in the program at the time of posting.***
 
 <p>I was so impressed to learn from a peer that computer programs have been written to compose music. Music is widely considered an art that takes innately human abilities to craft pleasing sounds. Computers are dull and inanimate while music is alive and human. I do not have a musical background, but after investigating this “artificial” music, I realized that the programs analyze sounds and patterns to piece together new compositions.</p>
