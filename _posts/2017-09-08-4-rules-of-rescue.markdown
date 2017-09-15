@@ -12,11 +12,11 @@ description:    "Cigarettes, Hypocrittes, rope and some business applicationss"
 twt-card-type:  "summary_large_image"
 ---
 
-For a couple of summers, I was a guide at an Alaskan zip line course serving mostly cruise ship passengers. This was the perfect summer gig for a young college student in a beautiful exotic location. I made lots of friends and had a grand time. Due to the inherit risk of zip-lining cruise ship passengers in the Alaskan wilds, the staff trained extensively on wilderness rescue operations. This learning and training has proved to be instrumental throughout my life and I still remember the four rules of rescue 10 years later. I believe the rules have applications in the workplace as well and I will share examples.
+For a couple of summers, I was a guide at an Alaskan zip line course serving mostly cruise ship passengers. This was the perfect summer gig for a young college student in a beautiful exotic location. I made lots of friends and had a grand time. Due to the inherit risk of zip-lining cruise ship passengers in the Alaskan wilds, the staff trained extensively on wilderness rescue operations. This learning and training has proved to be instrumental throughout my life and I still remember the four rules of rescue nine years later.
 
-I will share the rules with you as I remember them, but please note that I am not a rescue expert my former certifications have long expired. However, we unfortunately had to apply these rules of rescues in several situations in Alaska.
+I am not a rescue expert and my former certifications have long expired. We unfortunately had to apply these rules of rescues in several situations in Alaska. This has made a lasting impression that has carried over to the workplace. I will share how the rules also have business applications.
 
-Rules are meant to be broken and there are legitimate situations in which the rule should be broken which I will outline. Please take note of the order. Rules decrease in order of importance. The rules are in descending order of which rules to break first.
+Rules are meant to be broken and I will outline those legitimate situations. Please take note of the order as rules are in descending order of which to break first.
 
 ## #1 Smoke a Mental Cigarette
 
@@ -32,7 +32,7 @@ Now there are many reasons why you might want to break the number one rule. For 
 
 We know that knee-jerk reactions nearly always exasperate the problem. Some people might argue that you should go with your “instinct.” I argue that they are misusing the word “instinct” because actual instinctual reactions are involuntary. If you can make a decision, it is no longer an instinct. Don’t confuse gut feelings with instincts.
 
-When I was a business consultant, I was on project for the firm’s top client with a quick turnaround. I plotted the clients profit over time and was surprised to see the client bleeding cash! The client would be out of business in five years. I showed this to my manager, he realized that while this was a big problem for the client, it also was a big problem for our firm as we depended on the client’s relationship. He escalated it to a partner at the firm. To my surprise, the partner was cool and collected. He looked at the graph in silence for a moment. Then he instructed me to go home and then spend the entirety of the next day thinking through my analysis. Despite the quick turnaround, he essentially told me to “smoke a mental cigarette.” It took a full day, but I found a small error that had massive implications. I fixed it and the project went on as scheduled.
+When I was a business consultant, I was on project for the firm’s top client with a quick turnaround. I plotted the clients profit over time and was surprised to see the client bleeding cash! The client would be out of business in five years. I showed this to my manager with concern for the client. My manger quickly grasped the implications for the consultancy as we depended on the client’s relationship. He escalated it to a partner at the firm. To my surprise, the partner was cool and collected. He looked at the graph in silence for a moment. Then he instructed me to go home for the evening and then spend the entirety of the next day thinking through my analysis. Despite the quick turnaround, he essentially told me to “smoke a mental cigarette.” It took a full day, but I found a small error that had massive implications. I fixed it and the project went on as scheduled.
 
 ## #2 Do No Further Harm
 
@@ -46,7 +46,7 @@ In business emergencies, too often leaders do not consider situations holistical
 
 ## #3 Throw Before You Go
 
-A nice rhyme to help you remember – almost a haiku. The essence of this rule is that you should provide the person being rescued with tools to save themselves before going into the situation. Before diving into water to save a drowning victim, throw a life ring. Before climbing down a cliff to save a child, throw a rope. Unfortunately, many would-be-rescuers die from jumping into the situation. [Here](https://www.ksl.com/?sid=44443731&nid=148) is one of many sad stories of this happening, this one from my local newspaper. A dead rescuer does not benefit the victim – it is only more of a problem for other rescuers.
+A nice rhyme to help you remember. The essence of this rule is that you should provide the person being rescued with tools to save themselves before going into the situation. Before diving into water to save a drowning victim, throw a life ring. Before climbing down a cliff to save a child, throw a rope. Unfortunately, many would-be-rescuers die from jumping into the situation. **[Here](https://www.ksl.com/?sid=44443731&nid=148)** is one of many sad stories of this happening, this one from my local newspaper. A dead rescuer does not benefit the victim – it is only more of a problem for other rescuers.
 
 ![Rescurer](http://www.cbc.ca/interactives/content/images/throwing-lifesaver-1190-lg.png)
 
@@ -61,7 +61,7 @@ You have a knot in one of your ropes so you cut it out. Now you are repelling wi
 
 ![Rope]({{ site.baseurl }}/img/rope.jpeg)
 
-I remember working at a ranch in Jackson, Wyoming. One day the manager asked me to organize out behind the barn – a monumental feat considering the amount of junk collected. I interpreted “organize” as “discard” and begin doing so with the junk. After tossing two large concrete blocks, the manager came and chastised me for throwing everything away. He clarified that I was only to “organize.” It took a few days, but I rearranged everything into much neater piles of metal, wood and concrete junk. Later in the summer, I saw the manager using the concrete blocks I had nearly tossed to sturdy a fence. The metal I would have cast out was welded into elaborate shelving. The wood I wanted to haul to the dumpster was used in many capacities, but my favorite was a company bonfire. The creativity and self-reliance of the rancher has proved an inspiration to this day.
+I remember working at a ranch in Jackson, Wyoming. One day the manager asked me to organize out behind the barn – a monumental feat considering the amount of junk this cowboy had collected. I interpreted “organize” as “discard” and begin doing so with the junk. After tossing two large concrete blocks, the manager came and chastised me for throwing everything away. He clarified that I was only to “organize.” It took a few days, but I rearranged everything into much neater piles of metal, wood and concrete junk. Later in the summer, I saw the manager using the concrete blocks I had nearly tossed to sturdy a fence. The metal I would have cast out was welded into elaborate shelving. The wood I wanted to haul to the dumpster was used in many capacities, but my favorite was a company bonfire. The creativity and self-reliance of the cowboy has proved an inspiration to this day.
 
 ## Conclusion
 
@@ -71,6 +71,4 @@ There you go, the four rules of rescue I remembered through the years. They appl
 3. Throw Before You Go
 4. Don’t Cut Your Rope
 
-If you want more applications in business check out this [Harvard Business Review](https://hbr.org/2011/07/three-steps-to-handling-the-un) article.
-
-Let me know if the comments if you have a story of how one of the rules has helped you.
+If you want more applications in business check out this **[Harvard Business Review](https://hbr.org/2011/07/three-steps-to-handling-the-un)** article. Let me know in the comments if you have a story of a business application of a rule.
