@@ -12,7 +12,7 @@ description:    "Using R in Interview Technical Assessments"
 twt-card-type:  "summary_large_image"
 ---
 ## Background on Technical Assessments
-Right now I am currently in the throws of recruiting for Data Scientist positions as I approach graduation from my masters program at Northwestern. For those unfamiliar, a typical recruiting process will start with the traditional screener from an HR recruiter, progress to a conversation with the hiring manager, include a technical assessment and finish with an on-site visit. The unusual peice is the technical assessment, although this is not outside the norm for developers or software engineers. These technical assessments can really run the gammet: some are timed, some are not timed, some have specific questions, some have vauge instructions, some use company data, some use publically available data, some are 2 hours, some are several days. Technical assessments are fun and challenging, but can also be a pain.
+Right now I am currently in the throes of recruiting for Data Scientist positions as I approach graduation from my master's program at Northwestern. For those unfamiliar, a typical recruiting process will start with the traditional screener from an HR recruiter, progress to a conversation with the hiring manager, include a technical assessment and finish with an on-site visit. The unusual piece is the technical assessment, although this is not outside the norm for developers or software engineers. These technical assessments can really run the gamutt: some are timed, some are not timed, some have specific questions, some have vague instructions, some use company data, some use publically available data, some are 2 hours, and some are several days. Technical assessments are fun and challenging, but can also be a pain.
 
 I was interviewing with a software company and was presented with the following technical assessment. I think this company was on point with the structure: 2 hours of work, untimed, a 3 day window, with real company data. My wife gets a little peeved with companies have use real data - she thinks that the work I (and other applicants) do should not be used by the company. Personally, I prefer real company data with real questions as that is a good taste of the actual work I might be doing. Plus it makes the assessment more than a theoretical exercise. However, since the work is mine, but the data is the companies so I have sterilized the data (removed all identifying features and adding random noise) as a professional courtesy to the company (I did not sign an NDA or any paperwork for that matter). Ultimately, I did not get the position, which is really disappointing to me - I really loved the role and company. But, like dating, the fit needs to go both ways. I learned from the challenge and I am curious to know how I can improve my skills in the future. Feedback is certainly welcomed and appreciated.
 
@@ -24,9 +24,9 @@ I was expected to answer the following questions, doing my own work (naturally) 
 2. Which paywalls contribute the most revenue?
 3. Recommendations?
 
-Immedimately, it looks like this is an attribution problem. Since users can hit more than one paywall before paying, how do I decide whether or not each paywall is responsible for conversion or revenue. Attribution is not a problem unique to this company. It is every companies problem. In fact, this is the second data challenge I've seen dealing with attribution.
+Immediately, it looks like this is an attribution problem. Since users can hit more than one paywall before paying, how do I decide whether or not each paywall is responsible for conversion or revenue? Attribution is not a problem unique to this company. It is every company's problem. In fact, this is the second data challenge I've seen dealing with attribution.
 
-The data came in two files and looked pretty straigh-forward - users with a date if and when they hit each paywall and users with their first payment date and value. Using R, loaded in the data, joined the files and converted the dates using my favorite `tidyverse` packages.
+The data came in two files and looked pretty straight-forward - users with a date if and when they hit each paywall and users with their first payment date and value. Using R, loaded in the data, joined the files and converted the dates using my favorite `tidyverse` packages.
 
 ```{r}
 # Libraries
@@ -184,7 +184,7 @@ rpart.plot(fit1, cex = .8)
 ```
 ![Slide 9]({{ site.baseurl }}/img/slide_9.png)
 
-With decision trees, there is a way to mathematically assess each variables importance in the model. This makes for a nice graph. However, this does not neccessarily tell us if the paywalls lead towards or away from conversion.
+With decision trees, there is a way to mathematically assess each variables importance in the model. This makes for a nice graph. However, this does not necessarily tell us if the paywalls lead towards or away from conversion.
 
 ```{r}
 as.data.frame(fit1$variable.importance)
@@ -264,11 +264,11 @@ paid %>%
 ```
 ![Slide 14]({{ site.baseurl }}/img/slide_14.png)
 
-I added a slide to illustrate my methodology for the layman or execuative team. What is nice is that all three method confirm each other. While the dollar amounts vary slightly, Paywall I contributes the most revenue followed by Paywall H and Paywall G. I think this a great data science work - three different methods all pointing in the same direction. The company should be excited about this.
+I added a slide to illustrate my methodology for the layman or executive team. What is nice is that all three method confirm each other. While the dollar amounts vary slightly, Paywall I contributes the most revenue followed by Paywall H and Paywall G. I think this a great data science work - three different methods all pointing in the same direction. The company should be excited about this.
 
 ![Slide 15]({{ site.baseurl }}/img/slide_15.png)
 
-Now I wanted to show that I could also get into the sexy stuff as well. And one thing that is missing from each of the methods is the order in which paywalls are seen. I think Markov Chains could be quite useful here. Now I kinda confused even myself thinking about it, but the essense of the idea is you could use the probabilities of moving to the differnents in a weighting formula.
+Now I wanted to show that I could also get into the sexy stuff as well. And one thing that is missing from each of the methods is the order in which paywalls are seen. I think Markov Chains could be quite useful here. Now I confused even myself thinking about it, but the essence of the idea is you could use the probabilities of moving to the difference in a weighting formula.
 
 ![Slide 16]({{ site.baseurl }}/img/slide_16.png)
 
@@ -278,9 +278,9 @@ Also, I wanted to think about the expected revenue of different combinations of 
 
 ## Conclusion and Takeaways
 
-1. For the conversion rates, Paywalls I, H, and G are your heavy hitters. However, all paywalls seem to have very similiar rates. Nothing really pops out in the data to me here. A predictive classification model is would really be ideal here.
+1. For the conversion rates, Paywalls I, H, and G are your heavy hitters. However, all paywalls seem to have very similar rates. Nothing really pops out in the data to me here. A predictive classification model is would really be ideal here.
 2. For revenue attribution, Paywalls I, H, and G are your power walls. Three different methods confirm this.
-3. Recommendations include using Markov Chains, Association Rules to further explore revenue attribution, especially if combinations of paywalls is of interest. Expanding predictive model features and posssibly even doing some cluster analysis to see behavior patterns on conversion rates. Lastly, perhaps consider "soft" paywalls that user can pass through temporarily.
+3. Recommendations include using Markov Chains, Association Rules to further explore revenue attribution, especially if combinations of paywalls is of interest. Expanding predictive model features and possibly even doing some cluster analysis to see behavior patterns on conversion rates. Lastly, perhaps consider "soft" paywalls that user can pass through temporarily.
 
 ## Outcome
 
