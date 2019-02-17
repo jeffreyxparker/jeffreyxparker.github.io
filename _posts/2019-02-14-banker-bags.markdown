@@ -2,12 +2,12 @@
 layout:         post
 title:          "What the Price of Banker Bags Says About the Bank"
 subtitle:       "Using Sell Prices As A Proxy Scoring for Investment Banks Reputation "
-date:           2019-02-24 12:00:00
+date:           2019-02-04 12:00:00
 author:         "Jeff Parker"
-header-img:     "img/glub.jpg"
+header-img:     "img/banker_bag_header2.jpg"
 comments:       true
 
-tile-img:       "img/img/glub.jpg"
+tile-img:       "img/img/banker_bag_header2.jpg"
 description:    "What the Price of Banker Bags Says About the Bank"
 twt-card-type:  "summary_large_image"
 ---
