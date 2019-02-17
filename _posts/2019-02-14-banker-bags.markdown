@@ -40,7 +40,7 @@ library(tidyverse)
 library(lubridate)
 library(scales)
 
-bags <- read_csv('~/Documents/Personal/banker_bags.csv') %>%
+bags <- read_csv('https://raw.githubusercontent.com/jeffreyxparker/jeffreyxparker.github.io/master/_data/banker_bags.csv') %>%
   mutate(total_price = price + shipping,
          date_sold = lubridate::mdy(date_sold)) %>%
   select(bank, date_sold, total_price)
