@@ -7,7 +7,7 @@ author:         "Jeff Parker"
 header-img:     "img/banker_bag_header2.png"
 comments:       true
 
-
+tile-img:     "img/banker_bag_header2.png"
 description:    "What the Price of Banker Bags Says About the Bank"
 twt-card-type:  "summary_large_image"
 

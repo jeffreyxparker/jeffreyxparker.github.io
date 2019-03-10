@@ -59,18 +59,9 @@
       <meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time">
       <meta content="{{ site.url }}/about/" property="article:author">
     {% endif %}
-    
-    {% if page.image %}
-        <meta content="{{ site.url }}/{{ page.tile-img }}" property="og:image">
-        <meta property="og:image" content="{{ site.url }}/{{ page.tile-img }}" />
-    {% else %}
-        <meta content="{{ site.url }}/img/apple.jpg" property="og:image">
-    {% endif %}
-    
-    
-   <!-- {% if page.tile-img %}
+    {% if page.tile-img %}
       <meta content="{{ site.url }}/{{ page.tile-img }}" property="og:image">
-    {% endif %}-->
+    {% endif %}
     {% if page.categories %}
       {% for category in page.categories limit:1 %}
       <meta content="{{ category }}" property="article:section">
