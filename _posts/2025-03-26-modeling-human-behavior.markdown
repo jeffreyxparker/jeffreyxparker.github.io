@@ -1,13 +1,13 @@
 ---
 layout:         post
 title:          "Modeling Human Behavior Using Data Science"
-subtitle:       "Some Unique Projects I've worked On"
+subtitle:       "Exploring the nuances and real-world applications of modeling human behavior with data science"
 date:           2025-03-16 12:00:00
 author:         "Jeff Parker"
-header-img:     "img/banker_bag_header2.png"
+header-img:     "img/Modeling Human Behavior.png"
 comments:       true
 
-tile-img:     "img/banker_bag_header2.png"
+tile-img:     "img/Modeling Human Behavior.png"
 description:    "Modeling Human Behavior Using Data Science"
 twt-card-type:  "summary_large_image"
 
