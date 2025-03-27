@@ -4,10 +4,10 @@ title:          "Modeling Human Behavior Using Data Science"
 subtitle:       "Exploring the nuances and real-world applications of modeling human behavior with data science"
 date:           2025-03-16 12:00:00
 author:         "Jeff Parker"
-header-img:     "img/Modeling Human Behavior.png"
+header-img:     "img/vitruvian-man.jpg"
 comments:       true
 
-tile-img:     "img/Modeling Human Behavior.png"
+tile-img:     "img/vitruvian-man.jpg"
 description:    "Modeling Human Behavior Using Data Science"
 twt-card-type:  "summary_large_image"
 
