@@ -1,62 +1,41 @@
 ---
 layout:         post
-title:          "Modeling Human Behavior Using Data Science"
-subtitle:       "Exploring the nuances and real-world applications of modeling human behavior with data science"
-date:           2025-03-16 12:00:00
+title:          "The Tractor Hitch Surrogate Indictor"
+subtitle:       "What Jeremy Clarkson Can Teach Us About Purchase Decisions"
+date:           2025-06-05 12:00:00
 author:         "Jeff Parker"
-header-img:     "img/vitruvian-man.jpg"
+header-img:     "img/Clarksons Farm Tractor Evaluation Pan.jpg"
 comments:       true
 
-tile-img:     "img/vitruvian-man.jpg"
-description:    "Modeling Human Behavior Using Data Science"
+tile-img:     "img/Clarksons Farm Tractor Evaluation Pan.jpg"
+description:    "The Tractor Hitch Surrogate Indictor"
 twt-card-type:  "summary_large_image"
 
 ---
 
+Most purchasing guides will tell you to compare features, read reviews, and dive deep into specifications. Jeremy Clarkson, however, would likely scoff. On “Clarkson’s Farm,” his infamous “Tractor Hitch Test” offers a refreshingly direct, and surprisingly accurate, lesson in the psychology of smart buying — especially for marketers looking to understand their customers.
 
 
-Yesterday, while watching our kids play, my neighbor asked me about my specialty at work. He knows I'm actively looking for job opportunities. I took a moment to think and responded, "My specialty is modeling human behavior using data science."
+# The Clarkson Conundrum: Choosing the Best Tractor
+In Season 4 of “Clarkson’s Farm,” Jeremy Clarkson faces a monumental decision: which tractor should he buy for Diddly Squat? Faced with a field of nine potential candidates, each boasting a dizzying array of specifications, horsepower figures, and technological advancements, Clarkson devises a surprisingly simple, yet utterly Jeremy-esque, decision-making criterion: the speed at which each tractor can drop its hitch.
 
-This common thread connects all my previous roles. As it turns out, modeling human behavior is both complex and incredibly valuable in various industries. If I were to create another course as an adjunct professor (I previously taught Storytelling with Data at BYU), it would be titled Modeling Human Behavior Using Data Science.
 
-## The Challenge of Modeling Human Behavior
-What makes modeling human behavior different from other data science disciplines? The answer lies in human unpredictability. Machines, like those I worked with at General Electric, can generate erratic sensor data, but they never behave irrationally—there’s no human brain involved. Humans, on the other hand, are highly diverse, and our decisions are influenced by emotions and circumstances.
+His logic, delivered with characteristic Clarksonian flair, is that a tractor engineered to perform this common, mundane task with exceptional speed and ease must, by extension, be a comprehensively well-designed machine. If the manufacturer put thought and effort into perfecting something as basic as the hitch mechanism, surely they’ve done the same for the engine, the hydraulics, the cabin comfort, and every other critical component.
 
-While predicting any one person’s behavior is difficult, modeling behavior across large groups is more feasible. We may be irrational, but we are predictably irrational—a concept explored in one of my favorite books, Predictably Irrational by Dan Ariely.
 
-<img src="https://m.media-amazon.com/images/I/61cjZXBNl2L.jpg" height="300">
+# Decision Psychology: Beyond the Spec Sheet
+Clarkson’s “Tractor Hitch Test” perfectly illustrates several key psychological principles at play in consumer decision-making:
 
-## Why Businesses Care About Behavior Modeling
-Modeling human behavior is particularly useful for businesses developing products. Key questions companies want answered include:
+1. Heuristics and Mental Shortcuts: In a world overflowing with information, our brains rely on heuristics — mental shortcuts or rules of thumb — to simplify complex choices. Instead of meticulously comparing every single feature of nine different tractors (a task that would be exhausting and time-consuming), Clarkson uses one simple, observable metric as a proxy for overall quality. This is a common human tendency.
+2. Surrogate Indicators: The hitch speed isn’t directly related to, say, fuel efficiency or engine longevity. However, Clarkson treats it as a “surrogate indicator” — a stand-in or proxy for a broader, harder-to-measure quality (overall engineering excellence). Consumers often do this: the weight of a product might indicate its quality, the smoothness of a door handle might suggest a well-built car, or the cleanliness of a store might imply good management.
+3. The “Halo Effect”: When one positive trait (like a fast hitch drop) influences our perception of other, unrelated positive traits (like overall engineering prowess), it’s known as the halo effect. If a product excels in one easily observable aspect, we tend to assume it excels in others too.
+4. Cognitive Ease and Confidence: A simple test, easily understood and executed, makes the decision feel more manageable and gives the decision-maker a sense of confidence in their choice, even if the underlying logic is a simplified heuristic.
 
-- Will people buy this product? If so, at what price?
-- Which features should be prioritized?
-- What messages will encourage purchases?
-- What should the packaging and design look like?
-- Where should paywalls be placed in software?
-- How will customers react to market, economic, or political changes?
-- Which employees might be bad actors?
+# Applying the Lesson to Your Marketing Strategy
+For brands, the “Tractor Hitch Test” isn’t just a quirky anecdote; it’s a powerful framework for understanding and influencing purchase decisions.
 
-Answering these questions requires a mix of survey and behavioral data. Predictive models—like SARIMA, Prophet, and Exponential Smoothing—help forecast sales. Feature prioritization and pricing can be tackled using survey methods such as Conjoint and MaxDiff, powered by Hierarchical Bayes and Monte Carlo Markov Chains. Identifying bad actors relies on entity resolution and graph databases. Customer segmentation, enhanced through KMeans and KMedoids clustering, improves message testing.
+- Understand Your Customers’ “Hitch Tests”: What simple, observable cues do your target customers use to infer overall quality or value? This could be packaging, website UX, customer service responsiveness, a specific key feature, or even the very first interaction with your brand. Conduct user research to identify these critical moments.
+- Master the “Hitch Drop”: Flawless Execution of Key Signals: Once these surrogate indicators are identified, ensure your product or service excels in them. This means investing in intuitive product design, consistent high-quality brand aesthetics, delightful service delivery, and reliable performance in core functions. Impeccable execution of these small details signals overall excellence.
+- Simplify the Decision: Cut Through the Clutter: Don’t overwhelm customers with features. Instead, highlight core benefits and how your product addresses their needs, often through those well-executed details. Clearly articulate your value proposition, focus on benefits, and use storytelling to illustrate the efficacy of your “hitch drop” moments.
 
-Of course, my neighbor wasn’t interested in the technical jargon. What he really wanted to know was how these methods are applied in surprising and impactful ways. Here are three real-world applications I’ve worked on.
-
-## Cast Studies in Behavioral Modeling
-#### 1. Analyzing Voice Audio for Emotion-Based Price Quotes
-While working for a national shipping broker, I encountered an interesting pricing strategy. Companies would call in to request a semi-truck trailer shipment. The brokerage had its own drivers but also relied on a network of independent truckers.
-
-The company developed software to analyze emotion in callers’ voices and factor that into price quotes. The result? Angry customers often received better rates. This underscores how behavioral modeling can be leveraged in unexpected ways.
-
-#### 2. Optimizing the Right Offer at the Right Time
-I’m currently consulting for a startup optimizing when Shopify users see promotional pop-ups. The challenge is finding the right timing: presenting a discount to a customer who was going to buy anyway reduces revenue, but waiting too long could mean losing the sale entirely.
-
-I’ve worked with this company to align the models with business outcomes. This is the art of behavior modeling—balancing unknowns and assumptions to make informed decisions.
-
-#### 3. Using Email Domains for Loan Default Scoring
-I once consulted for a personal loan lender. Certain demographic factors (such as race, ethnicity, gender, and age) cannot legally be used in loan decisions. However, I discovered an interesting predictive signal—email domains.
-
-Applicants with Gmail addresses were the least likely to default, while those with Hotmail accounts were the most likely. My neighbor, who uses Hotmail, found this amusing. While surprising, insights like these help businesses make better decisions while staying compliant with regulations.
-
----
-
-These three examples highlight how human behavior modeling plays a crucial role in various industries. Do you have any surprising applications of behavior modeling? Share them in the comments!
+Jeremy Clarkson’s Tractor Hitch Test might seem absurd on the surface, but it’s a brilliant, if accidental, demonstration of how our minds tackle complex purchase decisions. By understanding these psychological shortcuts and mastering the “hitch drop” moments, businesses can become more effective communicators of value, building trust and driving sales in a world full of choices.
